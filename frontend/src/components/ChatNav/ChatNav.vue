@@ -49,11 +49,11 @@ const navConfigs = [
   },
   {
     key: navType.promptStore,
-    label: '提示词库',
+    label: '词库',
   },
   {
     key: navType.setToken,
-    label: '设置用户',
+    label: '用户',
   },
   {
     key: navType.compose,
